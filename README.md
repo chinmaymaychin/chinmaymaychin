@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chinmay
 - 👀 I’m interested in ... Engineering IoT Projects
-- 🌱 I’m currently learning ... Electronics Telecommunication
+- 🌱 I’m a graduate in ... Electronics Telecommunication Engineering
 - 💞️ I’m looking to collaborate on ... Github
 - 📫 How to reach me ... 
 
